@@ -8,7 +8,7 @@ import jakarta.xml.bind.annotation.XmlRootElement;
 import jakarta.xml.bind.annotation.XmlType;
 
 
-@XmlType( propOrder = { "taldea", "izena", "urtea", "formatoa","iraupena", "prezioa", "disketxea","mediaCondition" } )
+@XmlType( propOrder = {"taldea", "izena", "urtea", "formatoa","iraupena", "prezioa", "disketxea","mediaCondition" } )
 @XmlRootElement( name = "Diskoa" )
 
 public class Diskoa
