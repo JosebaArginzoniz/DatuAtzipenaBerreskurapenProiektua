@@ -1,0 +1,46 @@
+[
+    {
+        "id": 140,
+        "taldea": "Lou Reed",
+        "izena": "Rock N Roll Animal",
+        "urtea": 1970,
+        "formatoa": "Long Play",
+        "iraupena": 37.0,
+        "prezioa": 84.0,
+        "disketxea": "RCA Victor",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 181,
+        "taldea": "Peter Tosh",
+        "izena": "Puedes Verlo",
+        "urtea": 1960,
+        "formatoa": "Short Play",
+        "iraupena": 7.0,
+        "prezioa": 61.0,
+        "disketxea": "Rolling Stones Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 241,
+        "taldea": "The Beatles",
+        "izena": "With The Beatles",
+        "urtea": 1963,
+        "formatoa": "Long Play",
+        "iraupena": 38.0,
+        "prezioa": 145.0,
+        "disketxea": "Parlophone",
+        "mediaCondition": "Very Good (VG)"
+    },
+    {
+        "id": 253,
+        "taldea": "The Doors",
+        "izena": "Morrison Hotel",
+        "urtea": 1967,
+        "formatoa": "Long Play",
+        "iraupena": 36.0,
+        "prezioa": 187.0,
+        "disketxea": "Elektra",
+        "mediaCondition": "Very Good Plus (VG+)"
+    }
+]

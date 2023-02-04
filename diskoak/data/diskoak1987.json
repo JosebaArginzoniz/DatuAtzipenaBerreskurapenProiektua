@@ -1,0 +1,200 @@
+[
+    {
+        "id": 35,
+        "taldea": "Barricada",
+        "izena": "Noche De Rock & Roll",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 45.0,
+        "prezioa": 66.0,
+        "disketxea": "Oihuka",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 45,
+        "taldea": "Bob Marley & The Wailers",
+        "izena": "Kaya",
+        "urtea": 1987,
+        "formatoa": "Short Play",
+        "iraupena": 13.0,
+        "prezioa": 172.0,
+        "disketxea": "Island Records",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 69,
+        "taldea": "Dio",
+        "izena": "Dream Evil",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 49.0,
+        "prezioa": 64.0,
+        "disketxea": "Vertigo",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 78,
+        "taldea": "Electric Light Orchestra",
+        "izena": "ELO's Greatest Hits",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 38.0,
+        "prezioa": 173.0,
+        "disketxea": "Jet Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 88,
+        "taldea": "Gang Green",
+        "izena": "You Got It",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 39.0,
+        "prezioa": 61.0,
+        "disketxea": "Roadrunner Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 90,
+        "taldea": "Gary Moore",
+        "izena": "Wild Frontier",
+        "urtea": 1987,
+        "formatoa": "Maxi Single",
+        "iraupena": 10.0,
+        "prezioa": 132.0,
+        "disketxea": "10 Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 115,
+        "taldea": "Joe Cocker",
+        "izena": "Unchain My Heart",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 48.0,
+        "prezioa": 25.0,
+        "disketxea": "Capitol Records",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 118,
+        "taldea": "King Diamond",
+        "izena": "Abigail",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 36.0,
+        "prezioa": 30.0,
+        "disketxea": "Roadrunner Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 129,
+        "taldea": "Leï¿½o",
+        "izena": "Leï¿½o",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 42.0,
+        "prezioa": 171.0,
+        "disketxea": "Chapa Discos",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 131,
+        "taldea": "Leonard Cohen",
+        "izena": "Canciones de \"Greatest Hits\" Y \"Various Positions",
+        "urtea": 1987,
+        "formatoa": "Long Play  Doble",
+        "iraupena": 109.0,
+        "prezioa": 123.0,
+        "disketxea": "Circulo De Lectores",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 147,
+        "taldea": "Manowar",
+        "izena": "Fighting The World",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 35.0,
+        "prezioa": 173.0,
+        "disketxea": "ATCO Records",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 156,
+        "taldea": "Metallica",
+        "izena": "Ride The Lightning",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 40.0,
+        "prezioa": 36.0,
+        "disketxea": "Music For Nations",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 159,
+        "taldea": "Minor Threat",
+        "izena": "Minor Threat",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 43.0,
+        "prezioa": 121.0,
+        "disketxea": "Dischord Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 194,
+        "taldea": "Radio Futura",
+        "izena": "De Un Pais En Llamas",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 39.0,
+        "prezioa": 49.0,
+        "disketxea": "Ariola",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 195,
+        "taldea": "Radio Futura",
+        "izena": "La Ley Del Desierto / La Ley Del Mar",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 37.0,
+        "prezioa": 191.0,
+        "disketxea": "Ariola",
+        "mediaCondition": "Very Good Plus (VG+)"
+    },
+    {
+        "id": 226,
+        "taldea": "Spermbirds",
+        "izena": "Something To Prove",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 47.0,
+        "prezioa": 66.0,
+        "disketxea": "Manic Ears Records",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 299,
+        "taldea": "U.D.O.",
+        "izena": "Animal House",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 49.0,
+        "prezioa": 38.0,
+        "disketxea": "RCA Victor",
+        "mediaCondition": "Near Mint (NM or M-)"
+    },
+    {
+        "id": 300,
+        "taldea": "U2",
+        "izena": "The Joshua Tree",
+        "urtea": 1987,
+        "formatoa": "Long Play",
+        "iraupena": 49.0,
+        "prezioa": 43.0,
+        "disketxea": "Island Records",
+        "mediaCondition": "Very Good Plus (VG+)"
+    }
+]

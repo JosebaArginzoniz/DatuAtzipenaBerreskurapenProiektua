@@ -3,7 +3,7 @@ package com.dambi.mainklaseak;
 import com.dambi.atzipenekoak.Jsona;
 import com.dambi.pojoak.Diskoak;
 
-public class JsonaKontsolanInprimatu {
+public class JsonaDiskoakInprimatu {
     public static void main(String[] args) {
     
     Diskoak diskoak = new Diskoak();
