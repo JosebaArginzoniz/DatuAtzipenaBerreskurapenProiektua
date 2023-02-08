@@ -22,7 +22,7 @@ public class JsonXmlra {
             for (Diskoa d : diskoak.getDiskoak()) {
                 taldea.add(d);
             }
-            System.out.println(xmla.idatzi(taldea)+" disko idatzi dira json fitxategian.");
+            System.out.println(xmla.idatzi(taldea)+" disko idatzi dira xml fitxategian.");
         }
     }
 }
