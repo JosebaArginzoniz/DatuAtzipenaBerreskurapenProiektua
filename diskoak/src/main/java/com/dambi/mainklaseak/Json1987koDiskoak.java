@@ -5,7 +5,6 @@ import com.dambi.pojoak.Diskoa;
 import com.dambi.pojoak.Diskoak;
 
 public class Json1987koDiskoak {
-    
     public static void main(String[] args) {
     
         Diskoak diskoak = new Diskoak();
