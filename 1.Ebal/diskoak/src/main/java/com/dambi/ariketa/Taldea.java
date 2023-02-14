@@ -29,7 +29,7 @@ public class Taldea
     
     @Override
     public String toString() {
-        return "Diskoa["+ id + "," + taldea +  "," +     + "]";
+        return "Diskoa["+ id + "," + taldea +  "," +      "]";
     }
 
 }
