@@ -21,7 +21,7 @@ public class KolekzioarenBalioa {
                 kolekzioarenBalioak = kolekzioarenBalioak + diskoBatenPrezioa;
                 
             }
-            System.out.println(kolekzioarenBalioak);
+            System.out.println("Kolekzio osoaren balioa " + kolekzioarenBalioak + "  eurokoa da.");
         }
     }
 }
