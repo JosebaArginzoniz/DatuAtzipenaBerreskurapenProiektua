@@ -12,15 +12,17 @@ public class TaldeBatenDiskoenBalioa {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Zein Taldearen Diskoen kolekzioaren prezio totala nahi duzu kalkulatu?");
+        System.out.println("Zein Taldeen Diskoen kolekzioaren prezio totala nahi duzu kalkulatu?");
         String taldea = in.nextLine(); 
+ 
         in.close();
+        
         float kolekzioarenBalioa = aurkituTaldea(taldea);
         if (kolekzioarenBalioa == -1) {
             System.out.println(taldea +" taldea ez da existitzen");
         }
         else {
-            System.out.println(taldea + " taldearen diskoen prezio totala " + kolekzioarenBalioa + " minutukoa da");
+            System.out.println(taldea + " taldearen diskoen prezio totala " + kolekzioarenBalioa + " eurokoa da");
         }       
     }
     public static float aurkituTaldea(String taldea){
@@ -28,14 +30,14 @@ public class TaldeBatenDiskoenBalioa {
         Diskoak diskoak = new Diskoak();
         diskoak = jsona.irakurri();
         float kolekzioarenBalioa = 0;
+
         if (diskoak != null) {
             for (Diskoa d : diskoak.getDiskoak()) {
                 if (d.getTaldea().equals(taldea)) {
-                    kolekzioarenBalioa = kolekzioarenBalioa + (float)d.getPrezioa();
+                    kolekzioarenBalioa = (kolekzioarenBalioa + (float)d.getPrezioa());
                 }
             }
         }
-        
         return kolekzioarenBalioa;   
     }
 }

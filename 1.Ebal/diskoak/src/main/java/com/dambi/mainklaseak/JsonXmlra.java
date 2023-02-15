@@ -14,15 +14,10 @@ public class JsonXmlra {
 
         
         Jsona jsona = new Jsona("data/diskoak.json");
-        Xmla xmla = new Xmla("", "data/diskoak.xmla");
-        
         diskoak = jsona.irakurri();
 
-        if (diskoak != null) {
-            for (Diskoa d : diskoak.getDiskoak()) {
-                taldea.add(d);
-            }
-            System.out.println(xmla.idatzi(taldea)+" disko idatzi dira xml fitxategian.");
-        }
+        Xmla xmla = new Xmla("", "data/diskoakkk.xml");
+        System.out.println(xmla.idatzi(diskoak)+" disko idatzi dira xml fitxategian.");
+        
     }
 }

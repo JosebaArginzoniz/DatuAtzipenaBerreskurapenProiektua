@@ -1,4 +1,4 @@
-package com.dambi.mainklaseak;
+package com.dambi.ariketa;
 
 import com.dambi.atzipenekoak.Jsona;
 import com.dambi.pojoak.Diskoa;
