@@ -16,10 +16,8 @@
         "prezioa": 178.2,
         "disketxea": "ATCO Records",
         "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
+        "abestiak": [
+           
         ]
     },
     {
@@ -39,10 +37,17 @@
         "prezioa": 18.2,
         "disketxea": "Atlantic Records",
         "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
+        "abestiak": [
+            "Hells Bells",
+            "Shoot to Thrill",
+            "What Do You Do for Money Honey",
+            "Givin' the Dog a Bone",
+            "Let Me Put My Love into You",
+            "Back in Black",
+            "You Shook Me All Night Long",
+            "Have a Drink on Me",
+            "Shake a Leg",
+            "Rock and Roll Ain't Noise Pollution"
         ]
     },
     {
@@ -62,11 +67,18 @@
         "prezioa": 18.2,
         "disketxea": "Atlantic Records",
         "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
-        ]
+        "abestiak": [
+            "Highway to Hell",
+            "Girls Got Rhythm",
+            "Walk All Over You",
+            "Touch Too Much",
+            "Beating Around the Bush",
+            "Shot Down in Flames",
+            "Get It Hot",
+            "If You Want Blood (You've Got It)",
+            "Love Hungry Man",
+            "Night Prowler"
+                ]
     },
     {
         "_id": 4,
@@ -85,10 +97,8 @@
         "prezioa": 18.2,
         "disketxea": "Atlantic Records",
         "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
+        "abestiak": [
+           
         ]
     },
     {
@@ -107,12 +117,7 @@
         "iraupena": 42.54,
         "prezioa": 18.2,
         "disketxea": "Atlantic Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 6,
@@ -129,12 +134,7 @@
         "iraupena": 102.23,
         "prezioa": 174.5,
         "disketxea": "Swan Song",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1968,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 7,
@@ -151,12 +151,7 @@
         "iraupena": 94.43,
         "prezioa": 165.9,
         "disketxea": "Track Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1964,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 8,
@@ -173,12 +168,7 @@
         "iraupena": 108.45,
         "prezioa": 189.7,
         "disketxea": "Rolling Stones Records",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1962,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 9,
@@ -195,12 +185,7 @@
         "iraupena": 42.54,
         "prezioa": 18.2,
         "disketxea": "Rolling Stones Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1962,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 10,
@@ -217,12 +202,7 @@
         "iraupena": 42.54,
         "prezioa": 18.2,
         "disketxea": "Rolling Stones Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1962,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 11,
@@ -239,12 +219,7 @@
         "iraupena": 42.54,
         "prezioa": 18.2,
         "disketxea": "Rolling Stones Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1962,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 12,
@@ -261,12 +236,7 @@
         "iraupena": 42.54,
         "prezioa": 18.2,
         "disketxea": "Rolling Stones Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1962,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 13,
@@ -283,12 +253,7 @@
         "iraupena": 43.22,
         "prezioa": 120.0,
         "disketxea": "Gor",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1999,
-            "Euskal Herria",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 14,
@@ -305,12 +270,7 @@
         "iraupena": 27.12,
         "prezioa": 112.5,
         "disketxea": "Arion Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1985,
-            "Euskal Herria",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 15,
@@ -328,12 +288,7 @@
         "iraupena": 42.19,
         "prezioa": 156.0,
         "disketxea": "EMI Records",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1980,
-            "Euskal Herria",
-            "Europa"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 16,
@@ -350,12 +305,7 @@
         "iraupena": 41.22,
         "prezioa": 97.0,
         "disketxea": "Burning Heart Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1990,
-            "Noruega",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 17,
@@ -372,12 +322,7 @@
         "iraupena": 45.17,
         "prezioa": 92.5,
         "disketxea": "Epitaph Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1990,
-            "Noruega",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 18,
@@ -394,12 +339,7 @@
         "iraupena": 37.57,
         "prezioa": 105.0,
         "disketxea": "Volcom Entertainment",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1990,
-            "Noruega",
-            "Europa"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 19,
@@ -417,10 +357,21 @@
         "prezioa": 149.5,
         "disketxea": "Sire Records",
         "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1974,
-            "Estados Unidos",
-            "America"
+        "abestiak": [
+            "Blitzkrieg Bop",
+            "Beat on the Brat",
+            "Judy Is a Punk",
+            "I Wanna Be Your Boyfriend",
+            "Chain Saw",
+            "Now I Wanna Sniff Some Glue",
+            "I Don't Wanna Go Down to the Basement",
+            "Loudmouth",
+            "Havana Affair",
+            "Listen to My Heart",
+            "53rd & 3rd",
+            "Let's Dance",
+            "I Don't Wanna Walk Around with You",
+            "Today Your Love, Tomorrow the World"                               
         ]
     },
     {
@@ -438,12 +389,7 @@
         "iraupena": 31.23,
         "prezioa": 199.0,
         "disketxea": "Sire Records",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1974,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 21,
@@ -460,15 +406,10 @@
         "iraupena": 29.45,
         "prezioa": 169.9,
         "disketxea": "Sire Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
-        "id": 22,
+        "_id": 22,
         "taldea": "Bad Religion",
         "taldeDatuak": {
             "bateria": "Pete Finestone",
@@ -483,12 +424,7 @@
         "iraupena": 33.33,
         "prezioa": 23.99,
         "disketxea": "Epitaph Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1979,
-            "California, USA",
-            "America"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 23,
@@ -506,12 +442,7 @@
         "iraupena": 31.59,
         "prezioa": 19.99,
         "disketxea": "Epitaph Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1979,
-            "California, USA",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 24,
@@ -529,12 +460,7 @@
         "iraupena": 40.51,
         "prezioa": 24.99,
         "disketxea": "Epitaph Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1979,
-            "California, USA",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 25,
@@ -552,12 +478,7 @@
         "iraupena": 51.04,
         "prezioa": 85.7,
         "disketxea": "Fat Wreck Chords",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1987,
-            "Canada",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 26,
@@ -575,12 +496,7 @@
         "iraupena": 32.06,
         "prezioa": 55.3,
         "disketxea": "Fat Wreck Chords",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1987,
-            "Canada",
-            "America"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 27,
@@ -598,12 +514,7 @@
         "iraupena": 36.48,
         "prezioa": 64.7,
         "disketxea": "G7 Welcoming Committee Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1987,
-            "Canada",
-            "America"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 28,
@@ -620,12 +531,7 @@
         "iraupena": 38.23,
         "prezioa": 99.5,
         "disketxea": "Virgin Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1982,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 29,
@@ -642,12 +548,7 @@
         "iraupena": 42.13,
         "prezioa": 120.0,
         "disketxea": "JKP Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1982,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 30,
@@ -664,12 +565,7 @@
         "iraupena": 46.23,
         "prezioa": 85.0,
         "disketxea": "Virgin Records",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1982,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 31,
@@ -686,12 +582,7 @@
         "iraupena": 42.08,
         "prezioa": 12.99,
         "disketxea": "Rebel Riot Records",
-        "mediaCondition": "Excellent (EX)",
-        "jaiotza": [
-            2003,
-            "Japan",
-            "Asia"
-        ]
+        "mediaCondition": "Excellent (EX)"
     },
     {
         "_id": 32,
@@ -708,12 +599,7 @@
         "iraupena": 35.11,
         "prezioa": 14.99,
         "disketxea": "Insane Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            2005,
-            "South Korea",
-            "Asia"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 33,
@@ -730,12 +616,7 @@
         "iraupena": 38.24,
         "prezioa": 17.99,
         "disketxea": "Dead End Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            2012,
-            "China",
-            "Asia"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 34,
@@ -752,12 +633,7 @@
         "iraupena": 35.20,
         "prezioa": 14.99,
         "disketxea": "Riot Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            2010,
-            "South Korea",
-            "Asia"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 35,
@@ -774,12 +650,7 @@
         "iraupena": 40.10,
         "prezioa": 15.99,
         "disketxea": "Dead End Records",
-        "mediaCondition": "Good (G)",
-        "jaiotza": [
-            2011,
-            "Japan",
-            "Asia"
-        ]
+        "mediaCondition": "Good (G)"
     },
     {
         "_id": 36,
@@ -796,12 +667,7 @@
         "iraupena": 42.36,
         "prezioa": 19.99,
         "disketxea": "Rebel Music Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            2014,
-            "South Africa",
-            "Africa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 37,
@@ -818,12 +684,7 @@
         "iraupena": 46.20,
         "prezioa": 24.99,
         "disketxea": "Underground Records",
-        "mediaCondition": "Good (G)",
-        "jaiotza": [
-            2015,
-            "Ghana",
-            "Africa"
-        ]
+        "mediaCondition": "Good (G)"
     },
     {
         "_id": 38,
@@ -840,12 +701,7 @@
         "iraupena": 43.12,
         "prezioa": 22.99,
         "disketxea": "Liberty Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            2013,
-            "Nigeria",
-            "Africa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 39,
@@ -862,12 +718,7 @@
         "iraupena": 43.23,
         "prezioa": 17.99,
         "disketxea": "Virgin Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1975,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 40,
@@ -884,12 +735,7 @@
         "iraupena": 3.45,
         "prezioa": 7.99,
         "disketxea": "A&M Records",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1975,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 41,
@@ -906,12 +752,7 @@
         "iraupena": 3.24,
         "prezioa": 7.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Good (G)",
-        "jaiotza": [
-            1975,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Good (G)"
     },
     {
         "_id": 42,
@@ -928,12 +769,7 @@
         "iraupena": 45.32,
         "prezioa": 19.99,
         "disketxea": "Fat Wreck Chords",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1986,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 43,
@@ -950,12 +786,7 @@
         "iraupena": 40.21,
         "prezioa": 22.99,
         "disketxea": "Fat Wreck Chords",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1986,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 44,
@@ -972,12 +803,7 @@
         "iraupena": 38.32,
         "prezioa": 16.99,
         "disketxea": "Fat Wreck Chords",
-        "mediaCondition": "Good Plus (G+)",
-        "jaiotza": [
-            1986,
-            "Alemania",
-            "Europa"
-        ]
+        "mediaCondition": "Good Plus (G+)"
     },
     {
         "_id": 45,
@@ -994,12 +820,7 @@
         "iraupena": 3.15,
         "prezioa": 6.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1978,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 46,
@@ -1016,12 +837,7 @@
         "iraupena": 3.14,
         "prezioa": 5.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1977,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 47,
@@ -1038,12 +854,7 @@
         "iraupena": 43.20,
         "prezioa": 19.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1960,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 48,
@@ -1060,12 +871,7 @@
         "iraupena": 47.32,
         "prezioa": 21.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1960,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 49,
@@ -1082,12 +888,7 @@
         "iraupena": 55.24,
         "prezioa": 24.99,
         "disketxea": "EMI Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1960,
-            "Reino Unido",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 50,
@@ -1104,12 +905,7 @@
         "iraupena": 34.22,
         "prezioa": 150.99,
         "disketxea": "Spansuls",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1984,
-            "Euskal Herria",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 51,
@@ -1127,12 +923,7 @@
         "iraupena": 40.10,
         "prezioa": 62.99,
         "disketxea": "Atlantic Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1974,
-            "Australia",
-            "Oceania"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 52,
@@ -1150,12 +941,7 @@
         "iraupena": 43.06,
         "prezioa": 22.00,
         "disketxea": "New Rose Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1983,
-            "Frantzia",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 53,
@@ -1173,12 +959,7 @@
         "iraupena": 51.09,
         "prezioa": 123.45,
         "disketxea": "EMI",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1983,
-            "Frantzia",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 54,
@@ -1196,12 +977,7 @@
         "iraupena": 32.00,
         "prezioa": 192.99,
         "disketxea": "Bondage Records",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1982,
-            "Montpellier",
-            "Frantzia"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 55,
@@ -1219,12 +995,7 @@
         "iraupena": 31.05,
         "prezioa": 39.99,
         "disketxea": "Munster Records",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1964,
-            "Peru",
-            "America"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 56,
@@ -1242,12 +1013,7 @@
         "iraupena": 47.50,
         "prezioa": 49.99,
         "disketxea": "Independiente",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1983,
-            "Peru",
-            "America"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 57,
@@ -1265,12 +1031,7 @@
         "iraupena": 44.30,
         "prezioa": 72.99,
         "disketxea": "Mute Records Ltd.",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1980,
-            "Slovenia",
-            "Europe"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 58,
@@ -1288,12 +1049,7 @@
         "iraupena": 51.56,
         "prezioa": 54.99,
         "disketxea": "Dallas Records",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1995,
-            "Slovenia",
-            "Europe"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 59,
@@ -1310,12 +1066,7 @@
         "iraupena": 44.52,
         "prezioa": 25.99,
         "disketxea": "Only In Dreams",
-        "mediaCondition": "Mint (M)",
-        "jaiotza": [
-            1994,
-            "Euskal Herria",
-            "Europe"
-        ]
+        "mediaCondition": "Mint (M)"
     },
     {
         "_id": 60,
@@ -1333,12 +1084,7 @@
         "iraupena": 44.52,
         "prezioa": 152.99,
         "disketxea": "Elkar",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1987,
-            "Euskal Herria",
-            "Europe"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 61,
@@ -1356,12 +1102,7 @@
         "iraupena": 51.36,
         "prezioa": 9.99,
         "disketxea": "Viet Tan Studio",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            2006,
-            "Vietnam",
-            "Asia"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 62,
@@ -1379,12 +1120,7 @@
         "iraupena": 53.22,
         "prezioa": 192.99,
         "disketxea": "V2 Records",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1982,
-            "Mali",
-            "Africa"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 63,
@@ -1402,12 +1138,7 @@
         "iraupena": 56.25,
         "prezioa": 24.99,
         "disketxea": "Because Music",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1990,
-            "Mali",
-            "Africa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 64,
@@ -1425,12 +1156,7 @@
         "iraupena": 62.18,
         "prezioa": 94.99,
         "disketxea": "Elektra",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1981,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 65,
@@ -1448,12 +1174,7 @@
         "iraupena": 36.57,
         "prezioa": 29.99,
         "disketxea": "RCA",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1998,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 66,
@@ -1471,12 +1192,7 @@
         "iraupena": 27.34,
         "prezioa": 124.99,
         "disketxea": "Rough Justice",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1980,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 67,
@@ -1494,12 +1210,7 @@
         "iraupena": 36.31,
         "prezioa": 29.99,
         "disketxea": "Atlantic",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1986,
-            "Estados Unidos",
-            "America"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 68,
@@ -1517,12 +1228,7 @@
         "iraupena": 45.32,
         "prezioa": 150.99,
         "disketxea": "Banda Bonnot",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1987,
-            "Italia",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     },
     {
         "_id": 69,
@@ -1540,12 +1246,7 @@
         "iraupena": 41.21,
         "prezioa": 12.99,
         "disketxea": "We Bite Records",
-        "mediaCondition": "Near Mint (NM or M-)",
-        "jaiotza": [
-            1983,
-            "Torrino",
-            "Italy"
-        ]
+        "mediaCondition": "Near Mint (NM or M-)"
     },
     {
         "_id": 70,
@@ -1562,12 +1263,7 @@
         "iraupena": 36.30,
         "prezioa": 119.99,
         "disketxea": "Oihuka",
-        "mediaCondition": "Very Good (VG)",
-        "jaiotza": [
-            1979,
-            "Euskal Herria",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good (VG)"
     },
     {
         "_id": 71,
@@ -1585,11 +1281,6 @@
         "iraupena": 30.02,
         "prezioa": 128.99,
         "disketxea": "Clay Records",
-        "mediaCondition": "Very Good Plus (VG+)",
-        "jaiotza": [
-            1977,
-            "Inglaterra",
-            "Europa"
-        ]
+        "mediaCondition": "Very Good Plus (VG+)"
     }
 ]
