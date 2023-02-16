@@ -6,7 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface DiskografiaRepository {
-    Diskoa findById(String id);
+    List<Diskoa> findAll();
 
-    
 } 

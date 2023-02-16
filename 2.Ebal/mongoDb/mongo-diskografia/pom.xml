@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <name>mongo-diskografia</name>
 
-    <description>Mongo "gabonak" datu-baseko "diskografia" kolekzioko datuak kudeatzeko Rest APIa</description>
+    <description>Mongo "diskografia" datu-baseko "diskoak" kolekzioko datuak kudeatzeko Rest APIa</description>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>

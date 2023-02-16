@@ -4,10 +4,12 @@ import java.util.List;
 
 import org.bson.types.ObjectId;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+
 public class Diskoa {
 	
-	 //private ObjectId id;  //Berdin ei da id zein _id jarri  (Eta eremu hau ez erabiltzea be aukera bat da)
-
 	private int id;
 	public String taldea;
 	public TaldeDatuak taldeDatuak;
@@ -20,9 +22,5 @@ public class Diskoa {
 	public String mediaCondition;
 	public List<String> abestiak;
 	
-	@Override
-	public String toString() {
-		return "Diskoa [izena=" + izena + "]";
-	}
-	
+
 }

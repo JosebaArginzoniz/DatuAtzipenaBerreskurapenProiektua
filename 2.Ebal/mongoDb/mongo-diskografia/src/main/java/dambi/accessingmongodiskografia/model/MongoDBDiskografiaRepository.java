@@ -31,7 +31,8 @@ public class MongoDBDiskografiaRepository implements DiskografiaRepository {
 
     @PostConstruct
     void init() {
-        diskografiaCollection = client.getDatabase("gabonak").getCollection("diskografia", Diskoa.class);
+        diskografiaCollection = client.getDatabase("diskografia").getCollection("diskografia", Diskoa.class);
     }
+    
 
 }
