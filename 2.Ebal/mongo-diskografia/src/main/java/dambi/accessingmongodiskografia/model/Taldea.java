@@ -17,8 +17,6 @@ public class Taldea {
 		this.ahotsa = ahotsa;
 	}
 
-	// Getters y setters de la clase
-
 	public String getIzena() {
 		return izena;
 	}
