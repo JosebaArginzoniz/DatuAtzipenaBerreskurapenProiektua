@@ -1,0 +1,679 @@
+[
+    {
+        "_id": 1,
+        "taldea": {
+            "izena": "AC/DC",
+            "bateria": "Phil Rudd",
+            "baxua": "Cliff Williams",
+            "gitarraSolista": "Angus Young",
+            "gitarra": "Malcolm Young",
+            "ahotsa": "Bon Scott"
+        },
+        "izena": "Live",
+        "urtea": 1992,
+        "formatoa": "Long Play Doble",
+        "iraupena": 102.54,
+        "prezioa": 178.2,
+        "disketxea": "ATCO Records",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": []
+    },
+    {
+        "_id": 2,
+        "taldea": {
+            "izena": "AC/DC",
+            "bateria": "Phil Rudd",
+            "baxua": "Cliff Williams",
+            "gitarraSolista": "Angus Young",
+            "gitarra": "Malcolm Young",
+            "ahotsa": "Brian Johnson"
+        },
+        "izena": "Back In Black",
+        "urtea": 1980,
+        "formatoa": "Long Play",
+        "iraupena": 42.54,
+        "prezioa": 18.2,
+        "disketxea": "Atlantic Records",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Hells Bells",
+            "Shoot to Thrill",
+            "What Do You Do for Money Honey",
+            "Givin' the Dog a Bone",
+            "Let Me Put My Love into You",
+            "Back in Black",
+            "You Shook Me All Night Long",
+            "Have a Drink on Me",
+            "Shake a Leg",
+            "Rock and Roll Ain't Noise Pollution"
+        ]
+    },
+    {
+        "_id": 3,
+        "taldea": {
+            "izena": "Bad Religion",
+            "bateria": "Jamie Miller",
+            "baxua": "Jay Bentley",
+            "gitarraSolista": "Greg Hetson",
+            "gitarra": "Brian Baker",
+            "ahotsa": "Greg Graffin"
+        },
+        "izena": "Recipe for Hate",
+        "urtea": 1993,
+        "formatoa": "Long Play",
+        "iraupena": 53.0,
+        "prezioa": 20.5,
+        "disketxea": "Epitaph Records",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Recipe for Hate",
+            "Kerosene",
+            "American Jesus",
+            "Portrait of Authority",
+            "Man With a Mission",
+            "All Good Soldiers",
+            "Watch It Die",
+            "Struck a Nerve",
+            "My Poor Friend Me",
+            "Lookin' In",
+            "Don't Pray on Me",
+            "Modern Day Catastrophists",
+            "Skyscraper"
+        ]
+    },
+    {
+        "_id": 4,
+        "taldea": {
+            "izena": "NOFX",
+            "bateria": "Erik Sandin",
+            "baxua": "Fat Mike",
+            "gitarraSolista": "Eric Melvin",
+            "gitarra": "El Hefe",
+            "ahotsa": "Fat Mike"
+        },
+        "izena": "So Long and Thanks for All the Shoes",
+        "urtea": 1997,
+        "formatoa": "Long Play",
+        "iraupena": 32.19,
+        "prezioa": 23.99,
+        "disketxea": "Epitaph Records",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "It's My Job to Keep Punk Rock Elite",
+            "Kids of the K-Hole",
+            "Lori Meyers",
+            "Dinosaurs Will Die",
+            "Thank God It's Monday",
+            "Clams Have Feelings Too (Actually They Don't)",
+            "Louise",
+            "Stranger Than Fishin",
+            "Pharmacist's Daughter",
+            "Bottles to the Ground",
+            "Total Bummer",
+            "My Vagina",
+            "Herojuana",
+            "Theme From a NOFX Album"
+        ]
+    },
+    {
+        "_id": 5,
+        "taldea": {
+            "izena": "No Use for a Name",
+            "bateria": "Rory Koff",
+            "baxua": "Matt Riddle",
+            "gitarraSolista": "Dave Nassie",
+            "gitarra": "Chris Rest",
+            "ahotsa": "Tony Sly"
+        },
+        "izena": "Hard Rock Bottom",
+        "urtea": 2002,
+        "formatoa": "Long Play",
+        "iraupena": 41.12,
+        "prezioa": 16.5,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Feeding the Fire",
+            "Part Two",
+            "Failing Is Easier (Part Three)",
+            "Growing Down",
+            "The Worst Has Yet to Come",
+            "Toaster in the Bathtub",
+            "y: The Hell Is Contempt?",
+            "Thorn in My Side",
+            "Noitall",
+            "Fatal Flu",
+            "Peaceful Day"
+        ]
+    },
+    {
+        "_id": 6,
+        "taldea": {
+            "izena": "No Use for a Name",
+            "bateria": "Boz Rivera",
+            "baxua": "Matt Riddle",
+            "gitarraSolista": "Dave Nassie",
+            "gitarra": "Chris Rest",
+            "ahotsa": "Tony Sly"
+        },
+        "izena": "The Feel Good Record of the Year",
+        "urtea": 2008,
+        "formatoa": "Long Play",
+        "iraupena": 33.45,
+        "prezioa": 19.99,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Mint (M)",
+        "abestiak": [
+            "Biggest Lie",
+            "I Want to Be Wrong",
+            "Yours to Destroy",
+            "Under the Garden",
+            "Sleeping Between Trucks",
+            "Domino",
+            "The Feel Good Song of the Year",
+            "The Trumpet Player",
+            "Night of the Living Living",
+            "Ontario",
+            "Pacific Standard Time",
+            "The Dregs of Sobriety"
+        ]
+    },
+    {
+        "_id": 7,
+        "taldea": {
+            "izena": "No Use for a Name",
+            "bateria": "Boz Rivera",
+            "baxua": "Matt Riddle",
+            "gitarraSolista": "Dave Nassie",
+            "gitarra": "Chris Rest",
+            "ahotsa": "Tony Sly"
+        },
+        "izena": "The Feel Good Record of the Year",
+        "urtea": 2008,
+        "formatoa": "Long Play",
+        "iraupena": 33.45,
+        "prezioa": 19.99,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Mint (M)",
+        "abestiak": [
+            "Biggest Lie",
+            "I Want to Be Wrong",
+            "Yours to Destroy",
+            "Under the Garden",
+            "Sleeping Between Trucks",
+            "Domino",
+            "The Feel Good Song of the Year",
+            "The Trumpet Player",
+            "Night of the Living Living",
+            "Ontario",
+            "Pacific Standard Time",
+            "The Dregs of Sobriety"
+        ]
+    },
+    {
+        "_id": 8,
+        "taldea": {
+            "izena": "The Clash",
+            "bateria": "Topper Headon",
+            "baxua": "Paul Simonon",
+            "gitarraSolista": "Mick Jones",
+            "gitarra": "Mick Jones",
+            "ahotsa": "Joe Strummer"
+        },
+        "izena": "London Calling",
+        "urtea": 1979,
+        "formatoa": "Long Play Doble",
+        "iraupena": 65.09,
+        "prezioa": 30.0,
+        "disketxea": "CBS Records",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "London Calling",
+            "Brand New Cadillac",
+            "Jimmy Jazz",
+            "Hateful",
+            "Rudie Can't Fail",
+            "Spanish Bombs",
+            "The Right Profile",
+            "Lost in the Supermarket",
+            "Clampdown",
+            "The Guns of Brixton",
+            "Wrong 'Em Boyo",
+            "Death or Glory",
+            "Koka Kola",
+            "The Card Cheat",
+            "Lover's Rock",
+            "Four Horsemen",
+            "I'm Not Down",
+            "Revolution Rock",
+            "Train in Vain"
+        ]
+    },
+    {
+        "_id": 9,
+        "taldea": {
+            "izena": "Ramones",
+            "bateria": "Tommy Ramone",
+            "baxua": "Dee Dee Ramone",
+            "gitarraSolista": "Johnny Ramone",
+            "gitarra": "Johnny Ramone",
+            "ahotsa": "Joey Ramone"
+        },
+        "izena": "Ramones",
+        "urtea": 1976,
+        "formatoa": "Long Play",
+        "iraupena": 29.17,
+        "prezioa": 20.0,
+        "disketxea": "Sire Records",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Blitzkrieg Bop",
+            "Beat on the Brat",
+            "Judy Is a Punk",
+            "I Wanna Be Your Boyfriend",
+            "Chain Saw",
+            "Now I Wanna Sniff Some Glue",
+            "I Don't Wanna Go Down to the Basement",
+            "Loudmouth",
+            "Havana Affair",
+            "Listen to My Heart",
+            "53rd & 3rd",
+            "Let's Dance",
+            "I Don't Wanna Walk Around with You",
+            "Today Your Love, Tomorrow the World"
+        ]
+    },
+    {
+        "_id": 10,
+        "taldea": {
+            "izena": "The Exploited",
+            "bateria": "Willie Buchan",
+            "baxua": "Garry McCormack",
+            "gitarraSolista": "Wattie Buchan",
+            "gitarra": "Matt McGuire",
+            "ahotsa": "Wattie Buchan"
+        },
+        "izena": "Punks Not Dead",
+        "urtea": 1981,
+        "formatoa": "Long Play",
+        "iraupena": 33.08,
+        "prezioa": 14.99,
+        "disketxea": "Secret Records",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Punks Not Dead",
+            "Mucky Pup",
+            "Cop Cars",
+            "Free Flight",
+            "Army Life (Part 2)",
+            "Blown to Bits (Live)",
+            "Sex & Violence (Live)",
+            "SPG (Live)",
+            "Royalty (Live)",
+            "Dole Q (Live)",
+            "Exploited Barmy Army (Live)"
+        ]
+    },
+    {
+        "_id": 11,
+        "taldea": {
+            "izena": "The Exploited",
+            "bateria": "Wullie Buchan",
+            "baxua": "Garry McCormack",
+            "gitarraSolista": "Wattie Buchan",
+            "gitarra": "Gogs",
+            "ahotsa": "Wattie Buchan"
+        },
+        "izena": "Troops of Tomorrow",
+        "urtea": 1982,
+        "formatoa": "Long Play",
+        "iraupena": 34.30,
+        "prezioa": 15.00,
+        "disketxea": "Secret Records",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Jimmy Boyle",
+            "Daily News",
+            "Disorder",
+            "Alternative",
+            "U.S.A.",
+            "Rapist",
+            "Troops of Tomorrow",
+            "UK '82",
+            "Sid Vicious Was Innocent",
+            "War",
+            "They Won't Stop",
+            "So Tragic",
+            "Germs",
+            "Contro"
+        ]
+    },
+    {
+        "_id": 12,
+        "taldea": {
+            "izena": "Ataque Frontal",
+            "bateria": "Fido",
+            "baxua": "Carlos",
+            "gitarraSolista": "Chachi",
+            "gitarra": "El Ñaka",
+            "ahotsa": "Diego"
+        },
+        "izena": "Ataque Frontal",
+        "urtea": 1997,
+        "formatoa": "Single",
+        "iraupena": 5.26,
+        "prezioa": 20.0,
+        "disketxea": "Independiente",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Estamos Hartos",
+            "No Vamos a Callar"
+        ]
+    },
+    {
+        "_id": 13,
+        "taldea": {
+            "izena": "Kaotiko",
+            "bateria": "Mikel",
+            "baxua": "Pato",
+            "gitarraSolista": "Rubén",
+            "gitarra": "Dani",
+            "ahotsa": "Alen Ayerdi"
+        },
+        "izena": "Vengaza",
+        "urtea": 1998,
+        "formatoa": "Single",
+        "iraupena": 4.32,
+        "prezioa": 15.0,
+        "disketxea": "Independiente",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Venganza",
+            "Principios"
+        ]
+    },
+    {
+        "_id": 14,
+        "taldea": {
+            "izena": "La Polla Records",
+            "bateria": "Fernando Zapata",
+            "baxua": "Abel Murua",
+            "gitarraSolista": "Evaristo Páramos",
+            "gitarra": "Sumé",
+            "ahotsa": "Evaristo Páramos"
+        },
+        "izena": "Salve",
+        "urtea": 1984,
+        "formatoa": "Long Play",
+        "iraupena": 34.42,
+        "prezioa": 14.99,
+        "disketxea": "Soñua",
+        "mediaCondition": "Muy Bueno (VG+)",
+        "abestiak": [
+            "Salve",
+            "Come Mierda",
+            "Revienta",
+            "El Niño Soldado",
+            "Lo Que Hemos Vivido",
+            "La Revolución",
+            "El Congreso de los Ratones",
+            "El Falso Patriotismo",
+            "No Somos Nada",
+            "Donde Se Habla"
+        ]
+    },
+    {
+        "_id": 15,
+        "taldea": {
+            "izena": "La Polla Records",
+            "bateria": "Fernando Zapata",
+            "baxua": "Abel Murua",
+            "gitarraSolista": "Evaristo Páramos",
+            "gitarra": "Sumé",
+            "ahotsa": "Evaristo Páramos"
+        },
+        "izena": "Negro",
+        "urtea": 1991,
+        "formatoa": "Long Play",
+        "iraupena": 39.12,
+        "prezioa": 19.99,
+        "disketxea": "Soñua",
+        "mediaCondition": "Muy Bueno (VG+)",
+        "abestiak": [
+            "Ratas",
+            "Revolución",
+            "La Justicia",
+            "Los Maderos de San Juan",
+            "Odio a los Partidos",
+            "El Congreso de los Ratones",
+            "La Llambiona",
+            "De Presión",
+            "Eres un Buen Hombre, Charlie Brown",
+            "Lágrimas y Gozos"
+        ]
+    },
+    {
+        "_id": 16,
+        "taldea": {
+            "izena": "Tagada Jones",
+            "bateria": "Mathieu",
+            "baxua": "Guillaume",
+            "gitarraSolista": "Yann",
+            "gitarra": "Niko",
+            "ahotsa": "Niko"
+        },
+        "izena": "Le feu aux poudres",
+        "urtea": 2014,
+        "formatoa": "Album",
+        "iraupena": 45.24,
+        "prezioa": 12.0,
+        "disketxea": "At(h)ome",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Le feu aux poudres",
+            "Vendredi 13",
+            "Le dernier bar",
+            "La ballade des pendus",
+            "La peste et le choléra"
+        ]
+    },
+    {
+        "_id": 17,
+        "taldea": {
+            "izena": "Les Sales Majestés",
+            "bateria": "Manu",
+            "baxua": "Fabien",
+            "gitarraSolista": "Joss",
+            "gitarra": "Cédric",
+            "ahotsa": "Renaud"
+        },
+        "izena": "Sois pauvre et tais-toi !",
+        "urtea": 2005,
+        "formatoa": "Album",
+        "iraupena": 44.35,
+        "prezioa": 10.0,
+        "disketxea": "Dialektik",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Sois pauvre et tais-toi !",
+            "La marche des empereurs",
+            "Faut-il hurler avec les loups ?",
+            "Ni Dieu ni maître"
+        ]
+    },
+    {
+        "_id": 18,
+        "taldea": {
+            "izena": "Ramones",
+            "bateria": "Marky Ramone",
+            "baxua": "CJ Ramone",
+            "gitarraSolista": "Johnny Ramone",
+            "gitarra": "Joey Ramone",
+            "ahotsa": "Joey Ramone"
+        },
+        "izena": "Adios Amigos!",
+        "urtea": 1995,
+        "formatoa": "Album",
+        "iraupena": 32.36,
+        "prezioa": 12.99,
+        "disketxea": "Radioactive",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "I Don't Want to Grow Up",
+            "Makin Monsters for My Friends",
+            "It's Not for Me to Know",
+            "The Crusher"
+        ]
+    },
+    {
+        "_id": 19,
+        "taldea": {
+            "izena": "Ramones",
+            "bateria": "Tommy Ramone",
+            "baxua": "Dee Dee Ramone",
+            "gitarraSolista": "Johnny Ramone",
+            "gitarra": "Joey Ramone",
+            "ahotsa": "Joey Ramone"
+        },
+        "izena": "Ramones Mania",
+        "urtea": 1988,
+        "formatoa": "Compilation",
+        "iraupena": 46.48,
+        "prezioa": 20.0,
+        "disketxea": "Sire",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Blitzkrieg Bop",
+            "I Wanna Be Sedated",
+            "Rockaway Beach",
+            "Sheena Is a Punk Rocker"
+        ]
+    },
+    {
+        "_id": 20,
+        "taldea": {
+            "izena": "Ramones",
+            "bateria": "Marky Ramone",
+            "baxua": "CJ Ramone",
+            "gitarraSolista": "Johnny Ramone",
+            "gitarra": "Joey Ramone",
+            "ahotsa": "Joey Ramone"
+        },
+        "izena": "Brain Drain",
+        "urtea": 1989,
+        "formatoa": "Album",
+        "iraupena": 36.47,
+        "prezioa": 18.0,
+        "disketxea": "Sire",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Pet Sematary",
+            "Ignorance Is Bliss",
+            "Punishment Fits the Crime",
+            "Merry Christmas (I Don't Want to Fight Tonight)"
+        ]
+    },
+    {
+        "_id": 21,
+        "taldea": {
+            "izena": "Propagandhi",
+            "bateria": "Jord Samolesky",
+            "baxua": "Todd Kowalski",
+            "gitarraSolista": "Chris Hannah",
+            "gitarra": "Sulynn Hago",
+            "ahotsa": "Chris Hannah"
+        },
+        "izena": "Victory Lap",
+        "urtea": 2017,
+        "formatoa": "Album",
+        "iraupena": 35.34,
+        "prezioa": 22.99,
+        "disketxea": "Epitaph",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Victory Lap",
+            "Comply/Resist",
+            "Cop Just Out Of Frame",
+            "When All Your Fears Collide"
+        ]
+    },
+    {
+        "_id": 22,
+        "taldea": {
+            "izena": "Propagandhi",
+            "bateria": "Jord Samolesky",
+            "baxua": "John K. Samson",
+            "gitarraSolista": "Chris Hannah",
+            "gitarra": "David Guillas",
+            "ahotsa": "Chris Hannah"
+        },
+        "izena": "Today's Empires, Tomorrow's Ashes",
+        "urtea": 2001,
+        "formatoa": "Album",
+        "iraupena": 43.08,
+        "prezioa": 19.99,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Very Good Plus (VG+)",
+        "abestiak": [
+            "Back to the Motor League",
+            "Dear Coach's Corner",
+            "Today's Empires, Tomorrow's Ashes",
+            "Without Love"
+        ]
+    },
+    {
+        "_id": 23,
+        "taldea": {
+            "izena": "Propagandhi",
+            "bateria": "Jord Samolesky",
+            "baxua": "John K. Samson",
+            "gitarraSolista": "Chris Hannah",
+            "gitarra": "David Guillas",
+            "ahotsa": "Chris Hannah"
+        },
+        "izena": "Less Talk, More Rock",
+        "urtea": 1996,
+        "formatoa": "Album",
+        "iraupena": 38.25,
+        "prezioa": 24.99,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Apparently I'm a 'P.C. Fascist' (Because I Care About Both Human and Non-Human Animals)",
+            "Nailing Descartes to the Wall/(Liquid) Meat Is Still Murder",
+            "Less Talk, More Rock",
+            "Resisting Tyrannical Government"
+        ]
+    },
+    {
+        "_id": 24,
+        "taldea": {
+            "izena": "No Use for a Name",
+            "bateria": "Rory Koff",
+            "baxua": "Matt Riddle",
+            "gitarraSolista": "Dave Nassie",
+            "gitarra": "Chris Rest",
+            "ahotsa": "Tony Sly"
+        },
+        "izena": "Hard Rock Bottom",
+        "urtea": 2002,
+        "formatoa": "Long Play",
+        "iraupena": 41.12,
+        "prezioa": 16.5,
+        "disketxea": "Fat Wreck Chords",
+        "mediaCondition": "Near Mint (NM or M-)",
+        "abestiak": [
+            "Feeding the Fire",
+            "Part Two",
+            "Failing Is Easier (Part Three)",
+            "Growing Down",
+            "The Worst Has Yet to Come",
+            "Toaster in the Bathtub",
+            "y: The Hell Is Contempt?",
+            "Thorn in My Side",
+            "Noitall",
+            "Fatal Flu",
+            "Peaceful Day"
+        ]
+    }
+]
