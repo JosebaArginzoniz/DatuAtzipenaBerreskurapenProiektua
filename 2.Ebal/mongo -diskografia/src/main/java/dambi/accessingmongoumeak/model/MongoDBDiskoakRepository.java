@@ -33,7 +33,7 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
         return diskoakCollection.find().into(new ArrayList<>());
     }
 
-    // 3 Disko bat gehitu NON OK
+    // 3 Disko bat gehitu OK
     @Override
     public Diskoa save(Diskoa diskoa) {
         ArrayList <Diskoa> diskoGuztiak = diskoakCollection.find().into(new ArrayList<>());
@@ -82,6 +82,8 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
             if(diskoa.getTaldea().getIzena().equals(taldea)){
                 diskoenTaldeak.add(diskoa);
             }
+            else {
+            }
         }
         
         return diskoenTaldeak;
@@ -103,9 +105,7 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
         return taldeak; 
     }
 
-    // 10 
-
-	// 11 Prezio baten baino garestiagoa
+	// 11.- Prezio baten baino garestiagoa
     @Override
     public List<Diskoa> xBainoGarestiagoa(Float prezioa) {
         return diskoakCollection.find(gt("prezioa", prezioa)).into(new ArrayList<>());
