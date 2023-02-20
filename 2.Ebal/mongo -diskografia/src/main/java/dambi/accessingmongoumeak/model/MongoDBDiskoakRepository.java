@@ -4,11 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;
 
+import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
+import com.mongodb.client.model.Filters;
 
 import static com.mongodb.client.model.Filters.*;
 
@@ -42,12 +44,12 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
         return diskoa; 
     }
 
-    // 4 Prezioa Aldatu NON OK
+    // 4 Prezioa Aldatu OK  //Update
     @Override
-    public Diskoa prezioaAldatu(Diskoa diskoa) {
-        
+    public Diskoa prezioaAldatu (Diskoa diskoa) {
+        diskoakCollection.updateOne(Filters.eq("_id", diskoa.getId()),
+                new Document("$set", new Document("prezioa", diskoa.getPrezioa())));
         return diskoa;
-
     }
 
 
@@ -63,9 +65,13 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
         return diskoakCollection.find(eq("_id", new Integer (id))).first();        
     }
 
-	// 7 
-
-
+    // 7 Formatoa Aldatu OK
+    @Override
+    public Diskoa formatoaAldatu (Diskoa diskoa) {
+        diskoakCollection.updateOne(Filters.eq("_id", diskoa.getId()),
+                new Document("$set", new Document("formatoa", diskoa.getFormatoa())));
+        return diskoa;
+    }
 
     // 8 Talde baten diskoak topatu OK
 	public List<Diskoa> findByTaldea(String taldea){

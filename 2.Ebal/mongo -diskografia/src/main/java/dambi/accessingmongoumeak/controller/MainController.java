@@ -73,15 +73,12 @@ public class MainController {
 		return "Saved";
 	}
 
-
-	// 4 Disko bati prezioa aldatu NON OK
-
+	// 4 Disko bati prezioa aldatu OK
 	@PutMapping(value = "/prezioaAldatu")
-	public @ResponseBody Diskoa prezioaAldatu(@RequestParam String id, @RequestParam float prezioa) {
+	public Diskoa prezioaAldatu(@RequestParam String id, @RequestParam float prezioa) {
 		try {
 			Diskoa diskoa = new Diskoa();
 			diskoa = diskoaRepository.findById(id);
-			diskoa.setId(diskoa.getId());
 			diskoa.setPrezioa(prezioa);
 
 			diskoaRepository.prezioaAldatu(diskoa);
@@ -111,8 +108,19 @@ public class MainController {
 		return diskoaRepository.findById(id);
 	}
 
-	// 7 
+	// 7 Disko baten formatua aldatu OK
+	@PutMapping(value = "/formatoaAldatu")
+	public Diskoa formatoaAldatu(@RequestParam String id, @RequestParam String formatoa) {
+		try {
+			Diskoa diskoa = diskoaRepository.findById(id);
+			diskoa.setFormatoa(formatoa);
 
+			diskoaRepository.formatoaAldatu(diskoa);
+			return diskoa;
+		} catch (Exception ex) {
+			return null;
+		}
+	}
 
 	// 8 Talde bakoitzaren diskoak OK
 	@GetMapping(path = "/taldeBatenDiskoak/{taldea}")
@@ -126,13 +134,16 @@ public class MainController {
 		return diskoaRepository.getTaldeak();
 	}
 
-	// 10 
+	//10
 
 	// 11 Prezio baten baino garestiagoa OK
 	@GetMapping(path = "/xBainoGarestiagoa")
     public @ResponseBody Iterable<Diskoa> xBainoGarestiagoa(float prezioa) {
         return diskoaRepository.xBainoGarestiagoa(prezioa);
     }
+
+	
+	
 	
 }
 
