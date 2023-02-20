@@ -4,14 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;
 
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
 
-import static com.mongodb.client.model.Filters.eq;
+import static com.mongodb.client.model.Filters.*;
 
 @Repository
 public class MongoDBDiskoakRepository implements DiskoaRepository {
@@ -32,21 +31,6 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
         return diskoakCollection.find().into(new ArrayList<>());
     }
 
-    // //Taldeak eta taldekideak guztiak
-    // @Override
-    // public Iterable<Taldea> getTaldeak() {
-    //     ArrayList <Diskoa> diskoGuztiak = diskoakCollection.find().into(new ArrayList<>());
-    //     ArrayList <Taldea> taldeak = new ArrayList<>();
-    //     for (Diskoa diskoa : diskoGuztiak ) {
-    //         if(taldeak.contains(diskoa.getTaldea()) ){
-
-    //         }else{
-    //             taldeak.add(diskoa.getTaldea());
-    //         }
-    //     }
-    //     return taldeak; 
-    // }
-
     // 3 Disko bat gehitu NON OK
     @Override
     public Diskoa save(Diskoa diskoa) {
@@ -66,6 +50,7 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
 
     }
 
+
     // 5 Disko bat ezabatu OK
     @Override
     public long delete(String izena) {
@@ -77,5 +62,49 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
     public Diskoa findById(String id) {
         return diskoakCollection.find(eq("_id", new Integer (id))).first();        
     }
+
+	// 7 
+
+
+
+    // 8 Talde baten diskoak topatu OK
+	public List<Diskoa> findByTaldea(String taldea){
+        ArrayList <Diskoa> diskoGuztiak = diskoakCollection.find().into(new ArrayList<>());
+        ArrayList <Diskoa> diskoenTaldeak = new ArrayList<>();
+        
+        for (Diskoa diskoa : diskoGuztiak) {
+            if(diskoa.getTaldea().getIzena().equals(taldea)){
+                diskoenTaldeak.add(diskoa);
+            }
+        }
+        
+        return diskoenTaldeak;
+    }
+
+    
+	// 9 Disko bakoitzaren taldeak eta partaideak OK
+    @Override
+    public Iterable<Taldea> getTaldeak() {
+        ArrayList <Diskoa> diskoGuztiak = diskoakCollection.find().into(new ArrayList<>());
+        ArrayList <Taldea> taldeak = new ArrayList<>();
+        for (Diskoa diskoa : diskoGuztiak ) {
+            if(taldeak.contains(diskoa.getTaldea()) ){
+
+            }else{
+                taldeak.add(diskoa.getTaldea());
+            }
+        }
+        return taldeak; 
+    }
+
+    // 10 
+
+	// 11 Prezio baten baino garestiagoa
+    @Override
+    public List<Diskoa> xBainoGarestiagoa(Float prezioa) {
+        return diskoakCollection.find(gt("prezioa", prezioa)).into(new ArrayList<>());
+    }
+
+
     
 }

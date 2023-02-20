@@ -9,8 +9,11 @@ public interface DiskoaRepository {
     
     List<Diskoa> findAll(); // 1, 2
     Diskoa findById(String id); //6
-    Diskoa save(Diskoa person); //3
+    Diskoa save(Diskoa disko); //3
     long delete(String izena); //5
-    Diskoa prezioaAldatu(Diskoa prezioaAlda); //4
+    Diskoa prezioaAldatu(Diskoa prezioaAldau); //4
+    List<Diskoa> findByTaldea(String taldea); //8
+    Iterable<Taldea> getTaldeak(); //9
+    List<Diskoa> xBainoGarestiagoa(Float prezioa); //10
 
 }

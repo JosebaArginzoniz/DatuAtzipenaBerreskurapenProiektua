@@ -2,6 +2,8 @@ package dambi.accessingmongoumeak.controller;
 
 import java.util.List;
 
+import javax.validation.Valid;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -26,7 +28,7 @@ public class MainController {
 	private DiskoaRepository diskoaRepository;
 
 	// 1 Disko Guztiak OK
-	@GetMapping(path = "/diskoGuztiak")
+	@GetMapping(path = "/diskoGuztienDatuak")
 	public @ResponseBody Iterable<Diskoa> getAllDiskoak() {
 		return diskoaRepository.findAll();
 	}
@@ -109,8 +111,28 @@ public class MainController {
 		return diskoaRepository.findById(id);
 	}
 
-	// 7 Partaide barria
+	// 7 
 
+
+	// 8 Talde bakoitzaren diskoak OK
+	@GetMapping(path = "/taldeBatenDiskoak/{taldea}")
+	public @ResponseBody Iterable<Diskoa> findByTaldea(@Valid @RequestParam String taldearenIzena) {
+		return diskoaRepository.findByTaldea(taldearenIzena);
+	}
+
+	// 9 Disko bakoitzaren taldeak eta partaideak OK
+	@GetMapping(path = "/diskoenTaldePartaideak")
+	public @ResponseBody Iterable<Taldea> getTaldeak() {
+		return diskoaRepository.getTaldeak();
+	}
+
+	// 10 
+
+	// 11 Prezio baten baino garestiagoa OK
+	@GetMapping(path = "/xBainoGarestiagoa")
+    public @ResponseBody Iterable<Diskoa> xBainoGarestiagoa(float prezioa) {
+        return diskoaRepository.xBainoGarestiagoa(prezioa);
+    }
 	
 }
 
