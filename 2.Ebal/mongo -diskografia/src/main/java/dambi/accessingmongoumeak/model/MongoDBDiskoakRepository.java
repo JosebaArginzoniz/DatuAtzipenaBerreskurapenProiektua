@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;
 
+import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
@@ -48,13 +49,13 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
 
     // 3 Disko bat gehitu NON OK
     @Override
-    public Diskoa save(Diskoa person) {
+    public Diskoa save(Diskoa diskoa) {
         ArrayList <Diskoa> diskoGuztiak = diskoakCollection.find().into(new ArrayList<>());
         Diskoa diskoBarria = diskoakCollection.find().first();
-        person.setId(diskoBarria.getId() + diskoGuztiak.size());
-        diskoakCollection.insertOne(person);
+        diskoa.setId(diskoBarria.getId() + diskoGuztiak.size());
+        diskoakCollection.insertOne(diskoa);
 
-        return person; 
+        return diskoa; 
     }
 
     // 4 Prezioa Aldatu NON OK
