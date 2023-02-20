@@ -1,6 +1,5 @@
 package com.dambi.ariketa;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import jakarta.xml.bind.annotation.XmlElement;
