@@ -5,7 +5,6 @@ import java.util.List;
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -20,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 import dambi.accessingmongoumeak.model.Diskoa;
 import dambi.accessingmongoumeak.model.DiskoaRepository;
 import dambi.accessingmongoumeak.model.Taldea;
-import io.swagger.v3.oas.annotations.parameters.RequestBody;
 
 @RestController // This means that this class is a Controller baina @Controller bakarrik jarrita, PUT eta DELETEak ez dabiz
 @RequestMapping(path = "/diskak") // This means URL's start with /demo (after Application path)
@@ -121,9 +119,9 @@ public class MainController {
 
 	// 7.- Disko baten formatua aldatu OK
 	@PutMapping(value = "/formatoaAldatu")
-	public Diskoa formatoaAldatu(@RequestParam String id, @RequestParam String formatoa) {
+	public Diskoa formatoaAldatu(@RequestParam String izena, @RequestParam String formatoa) {
 		try {
-			Diskoa diskoa = diskoaRepository.findById(id);
+			Diskoa diskoa = diskoaRepository.findById(izena);
 			diskoa.setFormatoa(formatoa);
 
 			diskoaRepository.formatoaAldatu(diskoa);
@@ -151,9 +149,6 @@ public class MainController {
         return diskoaRepository.xBainoGarestiagoa(prezioa);
     }
 
-	
-	
-	
 }
 
 
