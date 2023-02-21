@@ -35,3 +35,7 @@ Bertan, berak dekon disko guztien informazioa bistaratu ahal dogu, holako Json b
     "mediaCondition": "Mint (M)"
   }
 ]
+
+## Bideaoa:
+
+(https://youtu.be/LS4XulZ7OhM)
