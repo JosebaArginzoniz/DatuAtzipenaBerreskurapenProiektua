@@ -36,6 +36,6 @@ Bertan, berak dekon disko guztien informazioa bistaratu ahal dogu, holako Json b
   }
 ]
 
-## Bideaoa:
+## Bideoa:
 
 (https://youtu.be/LS4XulZ7OhM)
