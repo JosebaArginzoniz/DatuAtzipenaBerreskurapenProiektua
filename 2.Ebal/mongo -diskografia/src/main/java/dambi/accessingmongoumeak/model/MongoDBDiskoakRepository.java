@@ -109,8 +109,5 @@ public class MongoDBDiskoakRepository implements DiskoaRepository {
     @Override
     public List<Diskoa> xBainoGarestiagoa(Float prezioa) {
         return diskoakCollection.find(gt("prezioa", prezioa)).into(new ArrayList<>());
-    }
-
-
-    
+    }    
 }

@@ -16,7 +16,6 @@ import java.io.IOException;
 
 public class MainMenu {
 
-    private static String[] zutabeak;
     private static Scanner in = new Scanner(System.in);
     public static void main(String[] args) throws IOException {
         int aukera = 0;

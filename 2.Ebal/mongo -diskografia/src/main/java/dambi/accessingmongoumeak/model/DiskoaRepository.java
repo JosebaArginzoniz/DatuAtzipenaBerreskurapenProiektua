@@ -1,6 +1,5 @@
 package dambi.accessingmongoumeak.model;
 
-import java.lang.reflect.Array;
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
@@ -10,7 +9,7 @@ public interface DiskoaRepository {
     
     List<Diskoa> findAll(); //1, 2
     Diskoa findById(String id); //6
-    Diskoa save(Diskoa disko); //3
+    Diskoa save(Diskoa diskoa); //3
     long delete(String izena); //5
     Diskoa prezioaAldatu(Diskoa diskoa); //4
     Diskoa formatoaAldatu(Diskoa diskoa); //7

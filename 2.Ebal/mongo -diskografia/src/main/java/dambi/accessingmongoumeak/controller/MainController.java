@@ -119,9 +119,9 @@ public class MainController {
 
 	// 7.- Disko baten formatua aldatu OK
 	@PutMapping(value = "/formatoaAldatu")
-	public Diskoa formatoaAldatu(@RequestParam String izena, @RequestParam String formatoa) {
+	public Diskoa formatoaAldatu(@RequestParam String id, @RequestParam String formatoa) {
 		try {
-			Diskoa diskoa = diskoaRepository.findById(izena);
+			Diskoa diskoa = diskoaRepository.findById(id);
 			diskoa.setFormatoa(formatoa);
 
 			diskoaRepository.formatoaAldatu(diskoa);
